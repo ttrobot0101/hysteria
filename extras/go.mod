@@ -6,7 +6,7 @@ toolchain go1.25.1
 
 require (
 	github.com/apernet/hysteria/core/v2 v2.0.0-00010101000000-000000000000
-	github.com/apernet/quic-go v0.61.1-0.20260803204750-bc12a60f32da
+	github.com/apernet/quic-go v0.61.1-0.20260806010916-184d081eef3e
 	github.com/database64128/tfo-go/v2 v2.3.3
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/libp2p/go-nat v1.0.1-0.20250821073202-01afc089f138
@@ -16,7 +16,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	golang.org/x/crypto v0.54.0
-	golang.org/x/net v0.56.0
+	golang.org/x/net v0.57.0
 	google.golang.org/protobuf v1.34.1
 )
 

@@ -30,7 +30,7 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
-	github.com/apernet/quic-go v0.61.1-0.20260803204750-bc12a60f32da // indirect
+	github.com/apernet/quic-go v0.61.1-0.20260806010916-184d081eef3e // indirect
 	github.com/caddyserver/zerossl v0.1.5 // indirect
 	github.com/database64128/netx-go v0.1.1 // indirect
 	github.com/database64128/tfo-go/v2 v2.3.3 // indirect
@@ -81,7 +81,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.54.0 // indirect
 	golang.org/x/mod v0.37.0 // indirect
-	golang.org/x/net v0.56.0 // indirect
+	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
 	golang.org/x/term v0.45.0 // indirect
 	golang.org/x/text v0.40.0 // indirect
